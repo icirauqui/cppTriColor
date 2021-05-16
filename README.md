@@ -1,1 +1,3 @@
-# cppTriColor
+# TriColor 
+
+Traw colored polylines
